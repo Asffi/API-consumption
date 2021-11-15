@@ -30,7 +30,7 @@ import java.nio.charset.StandardCharsets;
 public class MainActivity extends AppCompatActivity {
     private RequestQueue requestQueue;
     private TextView textView;
-    private static final String URL ="http://192.168.100.125:3000/api/zone";
+    private static final String URL ="Your_gitURl";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
